@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kelvin Ndeti @codeordie-prog
-- 👀 I’m interested in AI and ML, Robotics and Mobile App development
-- 🌱 I’m currently exploring computer science, programming with python and Java
+- 👀 I’m interested in AI and ML, and Robotics
+- 🌱 I’m currently exploring computer science
 - 💞️ I’m looking to collaborate and contribute to open source projects
-- 📫 How to reach me - email joekelvin692@gmail.com or on whatsapp +254 745840597
+- 📫 How to reach me - email joekelvin692@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: A HitchHiker will never forget their towel..
 
